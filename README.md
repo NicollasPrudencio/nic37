@@ -21,13 +21,6 @@ Here are some ideas to get you started:
 
 <head>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-  <style>
-    .skills img{
-      margin-top: 40px;
-      height: 100px;
-      max-height: 200px;
-    }
-  </style>
 </head>
 
 
@@ -35,7 +28,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/nic37"></a>
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula&inclusde_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=nic37&show_icons=true&theme=dracula&inclusde_all_commits=true&count_private=true"
   />
   <img
     height="180em"
@@ -43,14 +36,14 @@ Here are some ideas to get you started:
   />
 </div>
 
-<div class="skills" align="center">
+<div class="skills" align="center" style="margin-top: 40px;">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-plain.svg" />
+  <img style="height: 100px; max-height: 200px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img style="height: 100px; max-height: 200px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+  <img style="height: 100px; max-height: 200px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img style="height: 100px; max-height: 200px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
+  <img style="height: 100px; max-height: 200px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img style="height: 100px; max-height: 200px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-plain.svg" />
 
 </div>
 
