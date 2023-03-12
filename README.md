@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **nic37/nic37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +14,8 @@ Here are some ideas to get you started:
 -->
 
 # Oi, me chamo Nicollas.
-## Bem vindo ao meu perfil GitHub 👋
+### Bem vindo ao meu perfil GitHub 👋
+##### Sou desenvolvedor front-end em formação de full stack java. Estudo engenharia de computação e trabalho com infraestrutura de TI atualmente.
 
 
 <head>
