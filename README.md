@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Oi, me chamo Nicollas.
 ### Bem vindo ao meu perfil GitHub 👋
-##### Sou desenvolvedor front-end em formação de full stack java. Estudo engenharia de computação e trabalho com infraestrutura de TI atualmente.
+##### Sou desenvolvedor Engenheiro, Full Stack Java e especialista em Infraestrutura de TI com foco em Cloud e DevSecOps. Atuo como especialista de computação em nuvem com foco na automação de processos com a cultura DevOps.
 
 
 <head>
